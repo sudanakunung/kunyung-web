@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build": "npx tailwindcss build assets/tailwind.css -o assets/main.css"
+    "build": "npx tailwindcss build dist/assets/tailwind.css -o dist/assets/main.css"
   },
   "author": "",
   "license": "ISC"
